@@ -41,7 +41,7 @@ function lose(){
 
 //tie
 function tie(){
-    
+    results.innerHTML = "It's a tie";
 }
 
 
